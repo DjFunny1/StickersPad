@@ -1,0 +1,7 @@
+.stickerPad {
+    background-color: hsla(300, 65%, 90%, 0);
+    min-height: calc(100vh - 16px);
+    width: 100%;
+    cursor: pointer;
+}
+
